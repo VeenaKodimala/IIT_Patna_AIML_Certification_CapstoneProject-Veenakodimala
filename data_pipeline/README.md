@@ -60,3 +60,6 @@ This executes the full pipeline: scrapes books, stores them in SQLite, and print
 - `beautifulsoup4`
 - `pandas`
 - `sqlite3` (standard library)
+
+
+### git reflog --all can be used to check all the commits and branches in the repository, including those that have been deleted or are not currently referenced by any branch. This can help you find the commit hash of the deleted branch.
